@@ -2,7 +2,6 @@ Rencana Belajar Web Programming:
 
 -git
  - bitbucket
-   - Belajar Bitbucket 2
 -web api
  - crud
 -linq : Hold Dulu
