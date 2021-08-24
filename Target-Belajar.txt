@@ -1,0 +1,6 @@
+Rencana Belajar Web Programming:
+
+-git
+-web api
+-linq 
+-c# mah gampang da, jiga vb lebih ke arah ngebiasain aja cara penulisannya
