@@ -1,6 +1,8 @@
 Rencana Belajar Web Programming:
 
 -git
+ - bitbucket
 -web api
+ - crud
 -linq 
 -c# mah gampang da, jiga vb lebih ke arah ngebiasain aja cara penulisannya
