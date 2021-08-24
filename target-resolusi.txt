@@ -2,3 +2,4 @@ TARGET RESOLUSI
  - Menambah skill programming
  - Programmer Web Developer
  - Phyton
+ - Test CPNS
